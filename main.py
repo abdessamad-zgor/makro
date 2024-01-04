@@ -37,8 +37,8 @@ steps = {
     "continue": ".center-content",
 }
 
-email = "2001031200507@ofppt-edu.ma"
-password = "Ccox@10113"
+email = "email_here@example.com"
+password = "password_again"
 
 driver.get(ofppt_langues)
 driver.implicitly_wait(30);
